@@ -4,7 +4,7 @@
 Aspiring cybersecurity and forensics personnel who is deeply passionate about the Information Technology and Cyber Field. Knowledge-hungry and a fast learner. Well-versed in public security, quick thinking, and ever adapting. I am excited to continue learning and contributing to the cybersecurity community, and I will be showcasing my projects on GitHub to share my progress and experiences.
 
 ## Objective
-Through my journey in computer science, I have cultivated a deep passion for cybersecurity, drawn to its dynamic challenges and critical role in safeguarding digital assets. As I embark on my career, I am driven to transition into the cybersecurity field. I am eager to apply my knowledge, skills, and determination to contribute effectively to threat detection, incident response, and overall security posture, while continuously learning and growing in this rapidly evolving domain.
+Through my studies in Cybersecurity, I have cultivated a deep passion for cybersecurity, drawn to its dynamic challenges and critical role in safeguarding digital assets. As I embark on my career, I am driven to transition into the cybersecurity field. I am eager to apply my knowledge, skills, and determination to contribute effectively to threat detection, incident response, and overall security posture, while continuously learning and growing in this rapidly evolving domain.
 
 ## Skills
 
